@@ -404,7 +404,7 @@ That distinction has already exposed differences between virtual UEFI behavior a
 
 ### bbTux Installer
 
-![bbTux Installer](installer.png)
+![bbTux Installer](install.png)
 
 ---
 
