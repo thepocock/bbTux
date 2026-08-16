@@ -390,13 +390,13 @@ That distinction has already exposed differences between virtual UEFI behavior a
 
 ## Screenshots
 
-### bbTux Desktop
-
-![bbTux KDE Desktop](desktop.png)
-
 ### bbTux Login
 
 ![bbTux Login](login.png)
+
+### bbTux Desktop
+
+![bbTux KDE Desktop](desktop.png)
 
 ### bbTux Bootstrap Installer
 
