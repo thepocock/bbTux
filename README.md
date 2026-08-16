@@ -44,7 +44,6 @@ The installer intentionally avoids preserving machine-specific or personal state
 ```mermaid
 flowchart TD
     SRC["bbTux Source Definition"]
-
     SRC --> RPM["bbTux Release RPM"]
     SRC --> KS["Kickstart Provisioning"]
     SRC --> KDE["KDE / Plasma Configuration"]
@@ -63,6 +62,11 @@ flowchart TD
 
     BOOT --> NETWORK["Network Bootstrap"]
     NETWORK --> FEDORA["Fedora Installer Runtime"]
+    NETWORK --> PAYLOAD
+
+    ISO --> SYSTEM["Installed bbTux Workstation"]
+    FEDORA --> SYSTEM
+    PAYLOAD --> SYSTEM
 
 ```
 
@@ -480,8 +484,3 @@ The portfolio repository intentionally does not duplicate the complete source tr
 ---
 
 *bbTux is independently maintained and is not Fedora Linux. Fedora is a trademark of Red Hat, Inc.*
-    NETWORK --> PAYLOAD
-
-    ISO --> SYSTEM["Installed bbTux Workstation"]
-    FEDORA --> SYSTEM
-    PAYLOAD --> SYSTEM
