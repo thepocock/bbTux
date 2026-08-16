@@ -392,35 +392,19 @@ That distinction has already exposed differences between virtual UEFI behavior a
 
 ### bbTux Desktop
 
-_Add a screenshot of the installed KDE workstation here._
-
-```markdown
-![KDE Desktop](desktop.png)
-```
+![bbTux KDE Desktop](desktop.png)
 
 ### bbTux Installer
 
-_Add a screenshot of the branded installer here._
-
-```markdown
-![Installer](installer.png)
-```
+![bbTux Installer](installer.png)
 
 ### bbTux Login
 
-_Add a screenshot of the bbTux login environment here._
+![bbTux Login](login.png)
 
-```markdown
-![Login](login.png)
-```
+### bbTux Bootstrap Installer
 
-### Bootstrap
-
-_Add a photograph or screenshot of the Bootstrap environment here._
-
-```markdown
-![Bootstrap](bootstrap.png)
-```
+![bbTux Bootstrap Installer](bootstrap.png)
 
 ---
 
