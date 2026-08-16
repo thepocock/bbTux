@@ -58,7 +58,6 @@ flowchart TD
 
     SRC --> PAYLOAD["Versioned bbTux Payload"]
     BUILD --> BOOT["bbTux Bootstrap ISO"]
-    PAYLOAD --> BOOT
 
     BOOT --> NETWORK["Network Bootstrap"]
     NETWORK --> FEDORA["Fedora Installer Runtime"]
