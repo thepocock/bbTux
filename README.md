@@ -394,10 +394,6 @@ That distinction has already exposed differences between virtual UEFI behavior a
 
 ![bbTux KDE Desktop](desktop.png)
 
-### bbTux Installer
-
-![bbTux Installer](installer.png)
-
 ### bbTux Login
 
 ![bbTux Login](login.png)
@@ -405,6 +401,10 @@ That distinction has already exposed differences between virtual UEFI behavior a
 ### bbTux Bootstrap Installer
 
 ![bbTux Bootstrap Installer](bootstrap.png)
+
+### bbTux Installer
+
+![bbTux Installer](installer.png)
 
 ---
 
